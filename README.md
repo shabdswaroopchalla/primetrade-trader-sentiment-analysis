@@ -196,12 +196,5 @@ primetrade-trader-sentiment-analysis/
 │
 ├── trader_sentiment_analysis.ipynb
 ├── README.md
-├── requirements.txt
 ├── fear_greed_index.csv
-└── outputs/
-    ├── chart_1_pnl_by_sentiment.png
-    ├── chart_2_winrate_by_sentiment.png
-    ├── chart_3_trade_count_by_sentiment.png
-    ├── chart_4_trade_size_by_sentiment.png
-    ├── chart_5_long_bias_by_sentiment.png
-    └── chart_6_segment_analysis.png
+
